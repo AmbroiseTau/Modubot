@@ -2,7 +2,7 @@
 
 **Modubot** is a modular robotics platform built around **cube-shaped modules**, each with a **dedicated PCB** designed for specific functions. These modules can serve as **regional controllers**, **motor controllers**, **sensor modules**, or other customizable components, allowing for a **flexible and adaptable robotic system**. The entire project is based on **STM32 microcontrollers**.
 
-![Modubot](modubot_image1.jpg) ![Modules](modubot_image2.jpg)
+![Modubot](docs/media/BasicRobot_photo.jpg) ![Modules](modubot_image2.jpg)
 
 ---
 
@@ -41,7 +41,9 @@ The current phase features a **2-wheeled robot** designed as a **proof of concep
 
 However, the **continuous servos** faced **tuning issues**, preventing the robot from driving straight, highlighting the need to shift towards **PID-controlled DC motors with encoders** for precise control.
 
-![Robot and Remote](robot_image.jpg)
+![Robot and Remote](docs/media/BasicRobot_photo.jpg)
+[comment]: <> (Todo: Add remote control picture)
+
 
 ---
 
