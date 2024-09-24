@@ -21,8 +21,8 @@ This project is a chance to **apply and refine engineering knowledge** while exp
 
 ## **Roadmap:**
 
-1. **<code style="color:green;">Design First Ever Module (General Purpose) - Accomplished</code>**
-2. **<code style="color:green;">Create a Simple 2-Wheel Robot with Remote Operation - Accomplished</code>**
+1. <code style="color : green">**Design First Ever Module (General Purpose) - Accomplished **</code>
+2. <code style="color : green">**Create a Simple 2-Wheel Robot with Remote Operation - Accomplished **</code>
 3. **Write Firmware for CAN-FD, IMU, UART GPS**
 4. **Create a 2 Degrees of Freedom Arm**
 5. **Design a Brushed/Stepper/BLDC Motor Controller Module (MCM)**
