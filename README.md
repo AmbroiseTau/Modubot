@@ -20,15 +20,14 @@ This project is a chance to **apply and refine engineering knowledge** while exp
 ---
 
 ## **Roadmap:**
-
-1. <code style="color : green">**Design First Ever Module (General Purpose) - Accomplished **</code>
-2. <code style="color : green">**Create a Simple 2-Wheel Robot with Remote Operation - Accomplished **</code>
-3. **Write Firmware for CAN-FD, IMU, UART GPS**
-4. **Create a 2 Degrees of Freedom Arm**
-5. **Design a Brushed/Stepper/BLDC Motor Controller Module (MCM)**
-6. **Create a Miniature Buggy Rover**
-7. **Design 2nd Version of the General Purpose Module (GPM)**
-8. **Design Modular Drone (1x GPM + 4x MCM)**
+1. **✅ Design First Ever Module (General Purpose) - Accomplished**
+2. **✅ Create a Simple 2-Wheel Robot with Remote Operation - Accomplished**
+3. **🔲 Write Firmware for CAN-FD, IMU, UART GPS**
+4. **🔲 Create a 2 Degrees of Freedom Arm**
+5. **🔲 Design a Brushed/Stepper/BLDC Motor Controller Module (MCM)**
+6. **🔲 Create a Miniature Buggy Rover**
+7. **🔲 Design 2nd Version of the General Purpose Module (GPM)**
+8. **🔲 Design Modular Drone (1x GPM + 4x MCM)**
 
 ---
 
