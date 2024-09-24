@@ -44,8 +44,10 @@ The current phase features a **2-wheeled robot** designed as a **proof of concep
 
 However, the **continuous servos** faced **tuning issues**, preventing the robot from driving straight, highlighting the need to shift towards **PID-controlled DC motors with encoders** for precise control.
 
-![Robot and Remote](docs/media/BasicRobot_photo.jpg)
-[comment]: <> (Todo: Add remote control picture)
+<div style="display: flex; justify-content: center; margin: 0 auto; width: 100%;">
+  <img src="docs/media/BasicRobot_photo.jpg" alt="Image 1" style="width: 28%;"/>
+  <img src="docs/media/RemoteController.png" alt="Image 2" style="width: 49%;"/>
+</div>
 
 
 ---
