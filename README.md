@@ -2,7 +2,10 @@
 
 **Modubot** is a modular robotics platform built around **cube-shaped modules**, each with a **dedicated PCB** designed for specific functions. These modules can serve as **regional controllers**, **motor controllers**, **sensor modules**, or other customizable components, allowing for a **flexible and adaptable robotic system**. The entire project is based on **STM32 microcontrollers**.
 
-<img src="docs/media/BasicRobot_photo.jpg" width="500"/> <img src="docs/media/GPM PCB.jpg" width="500"/>
+<div style="display: flex; justify-content: center; margin: 0 auto; width: 100%;">
+  <img src="docs/media/BasicRobot_photo.jpg" alt="Image 1" style="width: 49%;"/>
+  <img src="docs/media/GPM PCB.jpg" alt="Image 2" style="width: 49%;"/>
+</div>
 
 ---
 
