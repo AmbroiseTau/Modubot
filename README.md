@@ -56,6 +56,6 @@ These issues will be addressed in **version 2**, after learning more about syste
 <img src="docs/media/GPMv1_pcb_render.png" width="425"/> <img src="docs/media/GPMv1_schematic.png" width="425"/> <img src="docs/media/GPMv1_routing.png" width="425"/> 
 
 
-The **3D-printed structure** has also been refined and is expected to remain unchanged unless major issues arise. For **quick connections** between modules and subcomponents (e.g., PCB bracket), **3D-printed Lego pins (scaled 1.25x)** are being used, and for more **permanent fixtures**, **M3 bolts** can be inserted in the same holes. Initially, **PETG** was used for printing, but due to **brittleness**, the material has been changed to **ABS**, which is more **ductile**.
+The **3D-printed structure** has also been refined and is expected to remain unchanged unless major issues arise. For **quick connections** between modules and subcomponents (e.g., PCB bracket), **3D-printed Lego pins (scaled 1.25x)** are being used, and for more **permanent fixtures**, **M6 bolts** can be inserted in the same holes. Initially, **PETG** was used for printing, but due to **brittleness**, the material has been changed to **ABS**, which is more **ductile**.
 
 ![CAD of the board](docs/media/CubeFrameRender.png)
